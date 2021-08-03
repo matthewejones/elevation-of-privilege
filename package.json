@@ -7,7 +7,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@fortawesome/react-fontawesome": "^0.1.14",
-    "boardgame.io": "^0.45.2",
+    "boardgame.io": "^0.46.1",
     "bootstrap": "^4.6.0",
     "esm": "^3.2.25",
     "jointjs": "^1.1.0",
